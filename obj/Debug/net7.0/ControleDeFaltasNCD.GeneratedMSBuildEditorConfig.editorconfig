@@ -9,49 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ControleDeFaltasNCD
 build_property.RootNamespace = ControleDeFaltasNCD
-build_property.ProjectDir = /home/alex/myGit/ControleDeFaltasNCD/
+build_property.ProjectDir = C:\Users\Usuario\Desktop\PI2\ControleDeFaltasNCD\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/alex/myGit/ControleDeFaltasNCD
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\PI2\ControleDeFaltasNCD
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/App.razor]
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/_Imports.razor]
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-0xxx2a2f1f
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-btd5uopfdf
 
-[/home/alex/myGit/ControleDeFaltasNCD/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-s79kngixpm
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b89eg7e3lg
 
-[/home/alex/myGit/ControleDeFaltasNCD/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/alex/myGit/ControleDeFaltasNCD/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+[C:/Users/Usuario/Desktop/PI2/ControleDeFaltasNCD/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
