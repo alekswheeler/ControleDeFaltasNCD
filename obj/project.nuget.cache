@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U5LFyY8SQHTcM3MZw1se6YXa1+f4xT/hNpTSj3oNBt9ND6bZUf97WfKD3VRuzRbN6JdP2f7znp7Rod2yhudjfQ==",
+  "dgSpecHash": "4TKPFw4tyuEf2g53xtVEy3RVYMBU83V/B9kWYC2ZqQ3xwI6kNDwgT4T9xBZ2nc6MWInXjGssgND6JYv+mgQ57Q==",
   "success": true,
-  "projectFilePath": "/home/alex/myGit/ControleDeFaltasNCD/ControleDeFaltasNCD.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\PI2\\ControleDeFaltasNCD\\ControleDeFaltasNCD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
