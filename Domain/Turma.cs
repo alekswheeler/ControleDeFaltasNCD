@@ -1,4 +1,8 @@
 //Objeto de Domínio - Turma
+using MongoDB.Bson.Serialization.Attributes;
+namespace ControleDeFaltasNCD.Domain;
+
+[BsonIgnoreExtraElements]
 public class Turma
 {
     Turma(string nome, string curso, string dias, string horarios, string periodo, Aluno[] alunos, Presenca[] presencas)
