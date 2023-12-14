@@ -23,6 +23,11 @@ public class AlunoRepository : IAlunoRepository<Aluno>
         return AlunoDB.Alunos.ToArray();
     }
 
+    public Aluno RetrieveAlunosByCodigo(string codigo)
+    {
+        return AlunoDB.Alunos.FirstOrDefault(a => a.Codigo == codigo) ?? throw new Exception("Not Found");
+    }
+
     public Aluno RetrieveAlunosByName(string nome)
     {
         return AlunoDB.Alunos.FirstOrDefault(a => a.Nome == nome) ?? throw new Exception("Not Found");
