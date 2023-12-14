@@ -15,6 +15,7 @@ public class Turma
         Periodo = periodo;
         Alunos = alunos;
         Presencas = presencas;
+        Codigo = "000";
     }
 
     public ObjectId Id { get; set; }
@@ -25,5 +26,6 @@ public class Turma
     public string Periodo { get; set; }
     public Aluno[] Alunos { get; set; }
     public Presenca[] Presencas { get; set; }
+    public string Codigo {get; set; }
 
 }
