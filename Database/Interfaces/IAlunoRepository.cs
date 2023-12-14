@@ -6,7 +6,7 @@ public interface IAlunoRepository<T>
 
     T RetrieveAlunosByName(string nome);
 
-    T RetrieveAlunosByCodigo(string nome);
+    T RetrieveAlunosByCodigo(string codigo);
 
     T[] RetrieveAll();
 
