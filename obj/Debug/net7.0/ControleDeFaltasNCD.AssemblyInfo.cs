@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleDeFaltasNCD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7b7efc5fe813e71a81c1f98c5c2bc77d59e6cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleDeFaltasNCD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleDeFaltasNCD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
