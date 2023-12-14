@@ -1,7 +1,8 @@
 // Objeto de Domínio - Presença
-
-using MongoDB.Bson.Serialization.Attributes;
 namespace ControleDeFaltasNCD.Domain;
+
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 [BsonIgnoreExtraElements]
 public class Presenca
@@ -12,6 +13,8 @@ public class Presenca
         Registro = registro;
         Aluno = aluno;
     }
+
+    public ObjectId Id { get; set; }
     public DateOnly Data { get; set; }
     public string Registro { get; set; }
     public Aluno Aluno { get; set; }

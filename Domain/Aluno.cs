@@ -1,5 +1,4 @@
 // Objeto de Domínio - Aluno
-
 namespace ControleDeFaltasNCD.Domain;
 
 using MongoDB.Bson;

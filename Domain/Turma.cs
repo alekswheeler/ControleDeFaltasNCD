@@ -1,4 +1,5 @@
 //Objeto de Domínio - Turma
+using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 namespace ControleDeFaltasNCD.Domain;
 
@@ -15,6 +16,8 @@ public class Turma
         Alunos = alunos;
         Presencas = presencas;
     }
+
+    public ObjectId Id { get; set; }
     public string Nome { get; set; }
     public string Curso { get; set; }
     public string Dias { get; set; }

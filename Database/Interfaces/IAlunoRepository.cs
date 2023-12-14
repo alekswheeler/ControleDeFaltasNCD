@@ -6,6 +6,8 @@ public interface IAlunoRepository<T>
 
     T RetrieveAlunosByName(string nome);
 
+    T RetrieveAlunosByCodigo(string nome);
+
     T[] RetrieveAll();
 
     void Save(T aluno);
